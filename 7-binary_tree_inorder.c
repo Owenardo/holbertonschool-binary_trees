@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include "binary_trees.h"
 /**
- *binary_tree_inorder - function that goes through a binary tree using in-order traversal
+ *binary_tree_inorder - function
+ *@func: pointer to the func
  *@tree: pinter to the root
  *Return: value
  */
